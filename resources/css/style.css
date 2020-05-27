@@ -89,12 +89,15 @@ h2:after {
     content: " ";
     width: 100px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .section-cities h2:after{
      height: 0px;
+    margin-bottom: -25px;
 }
+
+
 
 .section-cities h4{
     text-align: center;
@@ -598,7 +601,7 @@ input[type=checkbox] {
 
 footer {
     background-color: #333;
-    padding: 50px;
+    padding: 30px;
     font-size: 80%;
 }
 
@@ -713,7 +716,8 @@ footer p {
     content: " ";
     width: 300px;
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 5px;
+    margin-bottom: -15px;
     
 }
 
